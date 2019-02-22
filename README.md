@@ -2,4 +2,4 @@ A simple graphing calculator for plotting a single function. Function to plot fi
 
 ![Alt text](Capture.PNG)
 
-Link to the site -: https://shloksomani.github.io/Intractive-Graphing-Calculator/.
+Link -: https://shloksomani.github.io/Intractive-Graphing-Calculator/.
