@@ -1,0 +1,40 @@
+
+
+section {
+  border:4px;
+  color:#1fc69f;
+  border-radius:15px;
+  box-shadow: 5px 5px 5px;
+  float: left;
+  height:360px;
+  padding: 50px;
+  margin:20px;
+}
+
+label.input{
+  color:#000000;
+}
+
+#plotSettings {
+  width:150px;
+  display: inline-block;
+}
+
+#plot {
+  width:600px;
+  display: inline-block;
+}
+
+.button {
+  background-color: #1fc69f;
+  border: none;
+  color: white;
+  border-radius: 12px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
