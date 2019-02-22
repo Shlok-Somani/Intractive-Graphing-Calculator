@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/shloksomani/pen/Zwgzgw.
+A simple graphing calculator for plotting a single function. Function to plot field takes y intercept and graph it accordingly. 
 
- 
+Link to the site -: https://shloksomani.github.io/Intractive-Graphing-Calculator/.
